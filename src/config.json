@@ -1,0 +1,22 @@
+{
+  "TITLE_SHORT": "Foxx PVE 3X",
+  "TITLE_FULL": "Foxx PVE 3X",
+  "PRJ_SLOGAN": "Finally, a fun (and safe) place to play.",
+  "DISCORD_ID": "744365879575183402",
+
+  "S1_API_KEY": "WfC29dRVH5nJ2TAsd3CGYobzL2s0MpgbYOX",
+  "S1_BANNER": "https://rust-servers.net/server/172221/banners/banner-1.png",
+  "S1_DESC": "Build and Role play friendly, 3x.",
+
+  "S2_API_KEY": "67OJLXAxoOBLxopKBSvWsl9TvDXqQUHYucP",
+  "S2_BANNER": "mosharust.png",
+  "S2_DESC": "Another cool description",
+
+  "S3_API_KEY": "67OJLXAxoOBLxopKBSvWsl9TvDXqQUHYucP",
+  "S3_BANNER": "mosharust.png",
+  "S3_DESC": "Another cool description",
+
+  "S4_API_KEY": "67OJLXAxoOBLxopKBSvWsl9TvDXqQUHYucP",
+  "S4_BANNER": "mosharust.png",
+  "S4_DESC": "Another cool description"
+}
